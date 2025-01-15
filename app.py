@@ -17,6 +17,7 @@
 #Demonstration
 # -> I have uploaded a youtube video to showcase the above project
 # Link: https://youtu.be/rsHNO8OyeRY 
+# GitHub Repo: https://github.com/rud-3003/Code_Assistant_Agent
 
 
 import streamlit as st
